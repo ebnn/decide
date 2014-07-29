@@ -1,4 +1,4 @@
 decide
 ======
 
-Inane decision maker
+Run `bash decide.sh` to make up your mind.
